@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ElineMaaikedeWeerd
-- :star: I'm a PhD candidate in theoretical cosmology at Queen Mary, University of London, UK  
-- 👀 I’m interested in relativistic corrections to the galaxy bispectrum and its detectability in next-generation LSS surveys
+- :star: I have an undergraduate degree in Mathematical Physics from the University of Edinburgh, and a PhD in theoretical cosmology from Queen Mary, University of London  
 - 📫 I'm @linuscosinus on most social media, and you can find more info and contact details on my [website](https://emdeweerd.com)
 
 <!---
